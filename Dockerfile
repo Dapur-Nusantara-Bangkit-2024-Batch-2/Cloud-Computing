@@ -1,6 +1,6 @@
 FROM node:22.1.0
 
-WORKDIR /src
+WORKDIR /cloud-computing/src
 
 COPY package*.json ./
 
