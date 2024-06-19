@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "name": "Ayam Betutu",
+    "calories": [450, 550],
+    "recipe": ["1 ekor ayam", "4 lembar daun salam", "2 batang serai", "4 lembar daun jeruk", "Daun pisang secukupnya untuk membungkus"],
+    "description": "Ayam Betutu adalah hidangan tradisional Bali yang terkenal dengan rasa rempah yang kuat dan aromatik. Hidangan ini biasanya terdiri dari ayam yang dibumbui dengan campuran rempah khas Bali, kemudian dibungkus dengan daun pisang dan dipanggang atau dikukus hingga matang. Ayam Betutu memiliki cita rasa pedas, gurih, dan harum karena penggunaan bumbu seperti kunyit, lengkuas, jahe, kemiri, cabai, dan bawang."
+  },
+  {
+    "id": 2,
+    "name": "Ayam Pop",
+    "calories": [300, 350],
+    "recipe": ["1 ekor ayam kampung potong menjadi 4 bagian", "500 ml air kelapa", "4 lembar daun salam", "3 batang serai", "4 lembar daun jeruk", "2 cm lengkuas", "Minyak"],
+    "description": "Ayam Pop adalah hidangan khas dari Sumatera Barat, Indonesia, yang terkenal dengan rasa gurih dan tekstur daging ayam yang lembut. Hidangan ini umumnya menggunakan ayam kampung yang direbus dalam air kelapa dan bumbu sederhana, lalu digoreng sebentar untuk memberikan tekstur renyah di bagian luar. Ayam Pop biasanya disajikan dengan sambal merah dan nasi putih."
+  },
+  {
+    "id": 3,
+    "name": "Bakso",
+    "calories": [350, 450],
+    "recipe": ["500 gram daging sapi", "100 gram tepung tapioka", "2 siung bawang putih", "1 sdt merica bubuk", "1 sdt garam", "1 butir telur", "1/2 sdt baking powder"],
+    "description": "Bakso adalah makanan khas Indonesia yang sangat populer dan digemari oleh berbagai kalangan. Hidangan ini terdiri dari bola-bola daging yang terbuat dari campuran daging sapi giling dan tepung tapioka, yang kemudian direbus hingga matang. Bakso biasanya disajikan dalam kuah kaldu sapi yang gurih, bersama dengan mi, tahu, sayuran, dan pelengkap lainnya seperti bawang goreng, daun seledri, dan sambal."
+  },
+  {
+    "id": 4,
+    "name": "Coto Makassar",
+    "calories": [400, 500],
+    "recipe": ["500 gram daging sapi", "200 gram jeroan sapi (babak, hati, paru)", "2 liter air", "200 gram kacang tanah", "4 batang serai", "5 lembar daun salam", "4 lembar daun jeruk", "2 cm lengkuas"],
+    "description": "Coto Makassar adalah hidangan khas dari Makassar, Sulawesi Selatan, yang terkenal dengan kuahnya yang kaya akan rempah dan rasanya yang gurih. Hidangan ini terdiri dari potongan daging sapi dan jeroan yang dimasak dalam kuah yang dibuat dari kacang tanah, rempah-rempah, dan kaldu daging. Coto Makassar biasanya disajikan dengan buras atau ketupat, dan sering diberi tambahan bawang goreng serta daun bawang untuk memperkaya cita rasa."
+  },
+  {
+    "id": 5,
+    "name": "Dendeng Batokok",
+    "calories": [300, 400],
+    "recipe": ["500 gram daging sapi (bagian has dalam atau sengkel)", "2 lembar daun salam", "2 batang serai", "2 cm lengkuas", "Air untuk merebus"],
+    "description": "Dendeng Batokok adalah hidangan khas Minangkabau, Sumatera Barat, yang terkenal dengan daging sapi yang dipukul-pukul hingga pipih dan dimasak dengan bumbu rempah yang kaya. Kata batokok dalam bahasa Minangkabau berarti dipukul, mengacu pada proses persiapan daging. Dendeng Batokok biasanya disajikan dengan sambal lado mudo (sambal hijau) yang pedas dan gurih."
+  },
+  {
+    "id": 6,
+    "name": "Gado-Gado",
+    "calories": [400, 500],
+    "recipe": ["100 gram kacang panjang", "100 gram bayam", "100 gram tauge", "2 buah kentang", "1 buah mentimun", "100 gram tahu", "100 gram tempe", "2 butir telur rebus", "Lontong atau ketupat secukupnya", "Kerupuk secukupnya"],
+    "description": "Gado-Gado adalah salah satu hidangan khas Indonesia yang terdiri dari berbagai macam sayuran yang direbus atau dikukus, kemudian disajikan dengan bumbu kacang yang kaya rasa. Hidangan ini biasanya mencakup sayuran seperti kacang panjang, bayam, tauge, kentang, dan mentimun, serta tambahan seperti tahu, tempe, dan telur rebus. Gado-Gado sering disajikan dengan lontong (nasi yang dipadatkan dan dibungkus daun pisang) atau kerupuk sebagai pelengkap."
+  },
+  {
+    "id": 7,
+    "name": "Gudeg",
+    "calories": [450, 550],
+    "recipe": ["1 kg nangka muda", "1 liter santan kental", "500 ml air kelapa", "3 lembar daun salam", "3 lembar daun jati (opsional, untuk pewarna alami)", "2 batang serai", "3 cm lengkuas", "200 gram gula merah", "Garam secukupnya"],
+    "description": "Gudeg adalah hidangan tradisional khas Yogyakarta dan Jawa Tengah, Indonesia. Hidangan ini terbuat dari nangka muda (gori) yang dimasak dalam santan dan campuran bumbu selama beberapa jam hingga empuk dan berwarna cokelat kemerahan. Gudeg biasanya disajikan dengan nasi, ayam kampung, telur pindang, tahu atau tempe, serta sambal goreng krecek (kulit sapi)."
+  },
+  {
+    "id": 8,
+    "name": "Gulai Ikan",
+    "calories": [250, 350],
+    "recipe": ["500 gram ikan tenggiri (potong menjadi beberapa bagian)", "1 liter santan kelapa", "2 lembar daun salam", "2 lembar daun jeruk", "2 batang serai", "3 cm lengkuas", "2 asam kandis", "Minyak untuk menumis"],
+    "description": "Gulai ikan adalah salah satu hidangan tradisional Indonesia yang terkenal, terutama di Sumatera dan Jawa. Hidangan ini terdiri dari ikan yang dimasak dalam kuah santan yang kaya akan rempah-rempah. Ikan yang digunakan biasanya adalah ikan laut seperti tenggiri, kakap, atau kerapu, namun ikan air tawar seperti ikan mas juga sering digunakan."
+  },
+  {
+    "id": 9,
+    "name": "Gulai Tambusu",
+    "calories": [500, 600],
+    "recipe": ["500 gram usus sapi", "200 gram tahu", "3 butir telur", "1 liter santan kelapa", "2 lembar daun salam", "2 lembar daun jeruk", "2 batang serai", "3 cm lengkuas", "2 asam kandis (opsional)", "Minyak untuk menumis"],
+    "description": "Gulai Tambusu adalah hidangan khas Minangkabau, Sumatera Barat, yang unik dan lezat. Hidangan ini terdiri dari usus sapi yang diisi dengan campuran tahu dan telur, kemudian dimasak dalam kuah santan yang kaya rempah. Gulai tambusu biasanya memiliki rasa yang gurih dan sedikit pedas, dengan tekstur usus yang kenyal dan isiannya yang lembut."
+  },
+  {
+    "id": 10,
+    "name": "Gulai Tunjang",
+    "calories": [550, 650],
+    "recipe": ["500 gram tunjang (tulang kaki sapi)", "1 liter santan kelapa", "2 lembar daun salam", "2 batang serai", "3 cm lengkuas", "2 asam kandis (opsional)", "Garam dan gula secukupnya", "Minyak"],
+    "description": "Gulai tunjang adalah hidangan tradisional dari daerah Minangkabau yang terkenal dengan penggunaan tunjang (tulang kaki sapi) sebagai bahan utamanya. Gulai tunjang memiliki cita rasa yang gurih dan kaya rempah, dengan kuah santan yang lezat. Biasanya disajikan dengan nasi putih dan pelengkap lainnya seperti kerupuk dan sambal."
+  },
+  {
+    "id": 11,
+    "name": "Kerak Telor",
+    "calories": [350, 450],
+    "recipe": ["200 gram beras ketan", "2 butir telur ayam", "50 gram ebi (udang kering)", "3 siung bawang merah", "2 batang daun bawang", "2 lembar daun salam", "Garam dan Minyak"],
+    "description": "Kerak telor adalah makanan tradisional dari Betawi, Jakarta, yang terbuat dari campuran beras ketan, telur ayam, ebi (udang kering), dan bumbu-bumbu rempah lainnya. Campuran ini kemudian dipanggang atau digoreng hingga matang dengan api kecil, menciptakan lapisan luar yang renyah dan berwarna kecoklatan."
+  },
+  {
+    "id": 12,
+    "name": "Mie Aceh",
+    "calories": [116, 250],
+    "recipe": [
+      "200 gram mie telur",
+      "200 gram daging sapi",
+      "100 gram udang",
+      "2 butir telur",
+      "2 batang daun bawang",
+      "1 genggam tauge",
+      "3 siung bawang merah",
+      "3 siung bawang putih",
+      "2 cm jahe",
+      "2 lembar daun salam",
+      "Garam dan Minyak"
+    ],
+    "description": "Mie Aceh adalah hidangan mie khas dari Provinsi Aceh, Indonesia. Mie ini terkenal dengan kuahnya yang kaya rempah dan biasanya memiliki tingkat kepedasan yang cukup tinggi. Mie Aceh sering kali disajikan dengan potongan daging sapi, udang, telur, dan sayuran seperti tauge dan daun bawang. Hidangan ini memiliki cita rasa yang unik dan beragam, menggabungkan pengaruh masakan Melayu, India, dan Tionghoa."
+  },
+  {
+    "id": 13,
+    "name": "Nasi Kuning",
+    "calories": [200, 300],
+    "recipe": ["2 gelas beras", "3 gelas air", "1 batang sereh", "2 lembar daun salam", "2 cm lengkuas", "1 sdt garam", "1 sdm minyak goreng", "3 cm kunyit", "2 cm jahe"],
+    "description": "Nasi Kuning adalah hidangan nasi yang berwarna kuning khas Indonesia. Warna kuning pada nasi ini berasal dari bumbu kunyit yang digunakan dalam proses memasaknya. Nasi kuning sering kali disajikan dalam acara-acara spesial dan merupakan simbol kemakmuran dan kebahagiaan dalam budaya Indonesia."
+  },
+  {
+    "id": 14,
+    "name": "Pempek",
+    "calories": [250, 350],
+    "recipe": ["300 gram ikan tenggiri", "150 gram tepung sagu", "2 siung bawang putih", "1 sdm garam", "1/2 sdt merica bubuk", "200 ml air es", "Minyak"],
+    "description": "Pempek adalah hidangan khas dari Palembang, Sumatera Selatan, Indonesia. Terbuat dari campuran tepung sagu, ikan tenggiri yang dihaluskan, serta beberapa bumbu lainnya, pempek biasanya dihidangkan dengan saus cuko yang pedas dan asam. Hidangan ini memiliki tekstur kenyal di dalam dan renyah di luar setelah digoreng."
+  },
+  {
+    "id": 15,
+    "name": "Rawon",
+    "calories": [300, 400],
+    "recipe": ["500 gram daging sapi", "100 gram kacang kluwek", "1 liter air", "3 lembar daun salam", "2 batang serai", "2 cm lengkuas", "Garam dan Gula", "Minyak"],
+    "description": "Rawon adalah hidangan tradisional Jawa Timur, Indonesia, yang terkenal dengan kuahnya yang kaya rempah dan berwarna hitam pekat. Kuah rawon dihasilkan dari campuran kluwek, bumbu-bumbu rempah, serta daging sapi yang dimasak dalam waktu yang lama hingga kuahnya mengental dan bumbunya meresap. Rawon biasanya disajikan dengan nasi putih, tauge, telur asin, irisan bawang merah, dan sambal sebagai pelengkap."
+  },
+  {
+    "id": 16,
+    "name": "Rendang",
+    "calories": [450, 550],
+    "recipe": ["500 gram daging sapi", "400 ml santan kental", "2 lembar daun jeruk", "2 batang serai", "3 lembar daun salam", "2 cm lengkuas", "1 batang kayu manis", "Garam secukupnya", "Gula secukupnya", "Minyak untuk menumis"],
+    "description": "Rendang adalah hidangan daging asal Minangkabau, Sumatera Barat, Indonesia, yang terkenal dengan cita rasanya yang kaya rempah dan kuah kentalnya. Daging sapi yang dimasak dalam campuran santan kelapa dan rempah-rempah, seperti serai, lengkuas, daun jeruk, dan cabai merah, diolah dalam waktu yang lama hingga kuahnya menyusut dan bumbunya meresap ke dalam daging. Rendang memiliki tekstur yang lembut dan kuah yang gurih dengan rasa yang kompleks."
+  },
+  {
+    "id": 17,
+    "name": "Sate Madura",
+    "calories": [150, 250],
+    "recipe": ["500 gram daging sapi (atau ayam)", "20 tusuk sate", "3 siung bawang putih", "2 sdm kecap manis", "200 gram kacang tanah (sangrai dan haluskan)"],
+    "description": "Sate Madura adalah hidangan sate yang berasal dari Pulau Madura, Indonesia. Hidangan ini terdiri dari potongan daging (biasanya daging sapi atau ayam) yang ditusuk dengan bambu atau tusuk sate, kemudian dipanggang di atas bara api. Sate Madura biasanya disajikan dengan bumbu kacang yang kental, dicampur dengan kecap manis, bawang goreng, dan sering kali disertai dengan irisan bawang merah dan lontong (nasi ketan yang dibungkus daun pisang)."
+  },
+  {
+    "id": 18,
+    "name": "Pecel",
+    "calories": [200, 300],
+    "recipe": ["100 gram bayam", "100 gram kacang panjang", "100 gram tauge", "100 gram kol", "50 gram daun singkong"],
+    "description": "Pecel adalah hidangan tradisional Indonesia yang terdiri dari sayuran rebus yang disajikan dengan saus kacang pedas manis. Pecel mirip dengan gado-gado, namun biasanya menggunakan sayuran yang lebih sederhana dan saus kacang yang lebih encer. Sayuran yang sering digunakan dalam pecel meliputi bayam, kacang panjang, tauge, daun singkong, dan kol."
+  },
+  {
+    "id": 19,
+    "name": "Sate Padang",
+    "calories": [250, 350],
+    "recipe": ["500 gram daging sapi", "20 tusuk sate"],
+    "description": "Sate Padang adalah hidangan sate khas dari Sumatera Barat, Indonesia, yang dikenal dengan sausnya yang kental dan beraroma rempah. Sate ini biasanya menggunakan daging sapi, lidah, atau jerohan, yang dipotong kecil-kecil, ditusuk, dan dipanggang. Yang membedakan Sate Padang dengan sate lainnya adalah sausnya yang terbuat dari kaldu daging, tepung beras, dan bumbu rempah seperti kunyit, jahe, lengkuas, dan bawang. Saus ini memiliki tekstur kental dan warna kuning hingga cokelat."
+  },
+  {
+    "id": 20,
+    "name": "Soto",
+    "calories": [250, 350],
+    "recipe": [
+      "1 ekor ayam",
+      "2 liter air",
+      "2 batang serai",
+      "3 lembar daun salam",
+      "4 lembar daun jeruk",
+      "3 cm lengkuas",
+      "3 cm jahe",
+      "1 batang daun bawang",
+      "100 gram tauge",
+      "2 buah kentang",
+      "50 gram bihun",
+      "Telur rebus",
+      "Bawang goreng",
+      "Jeruk nipis"
+    ],
+    "description": "Soto adalah salah satu hidangan tradisional Indonesia berupa sup yang terbuat dari kaldu daging dan sayuran. Soto memiliki banyak variasi regional, seperti Soto Betawi, Soto Ayam, Soto Lamongan, dan Soto Madura. Setiap variasi memiliki ciri khas tersendiri, namun umumnya menggunakan daging sapi atau ayam sebagai bahan utama, bersama dengan bahan-bahan seperti bihun atau soun, tauge, kentang, dan telur rebus."
+  }
+]
