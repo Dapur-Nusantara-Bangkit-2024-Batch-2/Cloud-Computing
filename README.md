@@ -25,7 +25,8 @@ git clone https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/cloud-computin
 ```
 npm install
 ```
-3. Build and run the project
+3. Configure your .env file
+4. Build and run the project
 ```
 npm run serve
 ```
