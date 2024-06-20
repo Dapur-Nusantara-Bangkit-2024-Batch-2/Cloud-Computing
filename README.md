@@ -42,5 +42,5 @@ We published our API documentation from Postman, you can view it here [documenta
 
 # Cloud Architecture
 <div align="center">
-  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/cloudarchitecture_revision.jpg" alt="Cloud Architecture" style="width: 100%;">
+  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/cloudarchitecture_revision.jpg" alt="Cloud Architecture" style="width: 80%;">
 </div>
