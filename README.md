@@ -10,3 +10,23 @@
 - [Firebase](https://supabase.com/)
 - [Docker](https://www.docker.com/)
 - [Postman](https://www.postman.com/)
+
+# Setup Supabase
+Since we are using Supabase as our database, we need to configure the Supabase database to interact with our project. To set **SUPABASE_PROJECT_URL** and **SUPABASE_KEY** environment variable you can follow these steps at the following link: 
+- [Installing](https://supabase.com/docs/reference/javascript/installing)
+- [Building](https://medium.com/@heshramsis/building-a-crud-app-with-supabase-and-express-a-step-by-step-guide-for-junior-developers-81456b850910)
+
+# Installation
+1. Clone repository
+```
+git clone https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/cloud-computing
+```
+2. Install dependencies
+```
+npm install
+```
+3. Build and run the project
+```
+npm run serve
+```
+Navigate to http://localhost:8080
