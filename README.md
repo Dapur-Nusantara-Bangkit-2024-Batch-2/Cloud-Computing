@@ -26,6 +26,11 @@ git clone https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/cloud-computin
 npm install
 ```
 3. Configure your .env file
+```
+SUPABASE_PROJECT_URL=
+SUPABASE_KEY=
+JWT_SECRET_KEY=
+```
 4. Build and run the project
 ```
 npm run serve
