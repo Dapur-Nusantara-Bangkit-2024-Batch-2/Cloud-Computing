@@ -41,6 +41,6 @@ Navigate to http://localhost:8080
 We published our API documentation from Postman, you can view it here [documentation](https://documenter.getpostman.com/view/34824896/2sA3XV8KYF)
 
 # Cloud Architecture
-<div align="center">
+<div>
   <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/Frame%201.png" alt="Cloud Architecture" style="width: 50%;">
 </div>
