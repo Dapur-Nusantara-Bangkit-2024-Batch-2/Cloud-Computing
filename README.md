@@ -36,3 +36,11 @@ JWT_SECRET_KEY=[JWT_SECRET_KEY]
 npm run serve
 ```
 Navigate to http://localhost:8080
+
+# API Documentation
+We published our API documentation from Postman, you can view it here [documentation](https://documenter.getpostman.com/view/34824896/2sA3XV8KYF)
+
+# Cloud Architecture
+<div align="center">
+  <img src="https://github.com/Dapur-Nusantara-Bangkit-2024-Batch-2/.github/blob/main/profile/assets/cloudarchitecture.jpg" alt="Cloud Architecture" style="width: 100%;">
+</div>
