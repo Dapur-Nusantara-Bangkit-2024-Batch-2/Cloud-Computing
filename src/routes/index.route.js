@@ -7,8 +7,8 @@ const router = express.Router();
 
 router.use("/user", userRouter);
 
-router.get("/detail-food", getDetailFood);
+router.get("/detail-food/:foodName", getDetailFood);
 
-router.get("/detail-food-protected", protectRoute, getDetailFood);
+router.get("/detail-food-protected/:foodName", protectRoute, getDetailFood);
 
 module.exports = router;
